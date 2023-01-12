@@ -1,6 +1,4 @@
-* {
-background-color: #1F2937;
-}
+
 ul{
     list-style-type:none;
 }
@@ -31,6 +29,11 @@ border-width: 5px;
 border-color: #3882f6;
 margin-bottom: 100px;
 }
+.color1{
+border-color: #1F2937;
+padding: 20px;
+background-color: #1F2937;
+}
 .container{
 margin-left: 100px;
 font-family: Arial, Helvetica, sans-serif;
@@ -51,7 +54,12 @@ font-size: 18px;
 color: #e5e7eb;
 margin-left: 100px;
 font-family: Arial, Helvetica, sans-serif;
-
+}
+.info{
+color: #1F2937;
+font-family: Arial, Helvetica, sans-serif;
+display: flex;
+justify-content: center;
 }
 
 
